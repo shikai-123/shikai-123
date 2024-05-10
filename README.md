@@ -1,3 +1,4 @@
+:fire:  
 <div align="center">
  <!-- dynamic typing effect 动态打字效果 -->
   <div>
@@ -27,11 +28,10 @@
   </div> 
 
 </div>
-
 #  🙋 Hello
 <table>  
 <tr><td>
-### 🤺 About Me
+🤺 About Me
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
@@ -76,17 +76,50 @@
 
 </table>
 
-<!--  skill badge 技能徽章 -->  
+### 技能
+<table>
+ </td></tr>
+<tr><td> 
+<!-- just img 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
 
+<!--  skill badge 技能徽章 -->  
+语言  
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
-![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![Go Badge](https://img.shields.io/badge/Go-bule?style=flat&logo=go&logoColor=red&logoSize=auto)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)  
+
+基于平台  
+![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)  
+![Static Badge](https://img.shields.io/badge/OpenCV-%235C3EE8?style=flat&logo=opencv&logoColor=white&logoSize=auto)
+
+第三方库  
+  
+数据库
+![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?style=flat&logo=sqlite&logoColor=white&logoSize=auto)
+
+系统  
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+![Static Badge](https://img.shields.io/badge/Windows-%23003399?style=flat&logo=windows10&logoColor=white&logoSize=auto)  
+
+IDE  
+![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+![Qtcreate Badge](https://img.shields.io/badge/Qtcreate-41CD52?logo=qt&logoColor=fff&style=flat)
+![Static Badge](https://img.shields.io/badge/pycharm-%23000000?style=flat&logo=pycharm&logoColor=white&logoSize=auto)
 
 
 
+</table>
 
+### 数据统计
+<table>
+ </td></tr>
+<tr><td>  
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikai-123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shikai-123)](https://git.io/streak-stats)
@@ -94,4 +127,4 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shikai-123.visitor-badge)  
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shikai-123&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+</table>
