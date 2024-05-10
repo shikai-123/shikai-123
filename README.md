@@ -71,14 +71,32 @@
 <tr><td>
  
 ### 🤾‍♂️ 书单
+ 我喜欢读书.无他,兴趣罢了.
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
-
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35193035/' target='_blank'>读过认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
-* <a href='https://book.douban.com/subject/27040433/' target='_blank'>最近在读极简主义</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+#### 技术书籍
+* 白话c++--练功
+* 白话c++--练武--上部
+* 白话c++--练武--下部
+* Effective Modern C++
+* OpenCV4快速入门
+* MySQL是怎样使用的
+* 大话数据与算法
+* 代码随想
+* Qt5.9c++开发指南
+#### 非技术数据
+* 中国是部金融史1  
+* 中国是部金融史2--天下之财
+* Mr.Hua创业手记
+* 认知觉醒
+* 明朝那些事
+* 中国城市大洗牌
+* 认知世界的经济学
+* 社会学名家讲堂-第三辑
+* 金榜题名之后-大学生出路分化之谜
+* 雪球基金第一课
+* 置身事内--中国政府与经济发展
+* 法治的细节
 <!-- END_SECTION:douban -->
 </td></tr>
 
