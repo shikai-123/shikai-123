@@ -17,13 +17,10 @@
   <div>&nbsp;</div>  
    <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/CSDN-博客-8c36db" /></a>&emsp;
-    <a href="https://mp.sunguoqi.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://blog.csdn.net/weixin_46537765"><img src="https://img.shields.io/badge/CSDN-博客-8c36db" /></a>&emsp;
     <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=shikai-123&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-    <!-- wakatime -->    
-    <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
 
   </div> 
 
@@ -35,14 +32,29 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;嗨，你好，我是小孙同学。热爱编程、摄影、读书、旅行。</p>
+<p>&emsp;&emsp;嗨，你好，我是SK。热爱编程、读书。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 </td></tr>
 <tr><td>  
 
-### 🤾‍♂️ Funny Soul
+### 📃 Recent Blog
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
+
+<!-- START_SECTION:blog -->
+* <a href='http://t.csdnimg.cn/zEfzo' target='_blank'>QT，SSH开发——QSSH库编译成功率最高的方法</a> - 2024-03-18
+* <a href='http://t.csdnimg.cn/QFge6' target='_blank'>typedef对指针类型取别名的方法以及思考</a> - 2024-03-10
+* <a href='http://t.csdnimg.cn/pbHsK/' target='_blank'>libmodbus报文打印、记录；适配多个版本</a> - 2024-02-20
+* <a href='http://t.csdnimg.cn/At8Zc' target='_blank'>toml11读,写,格式转换</a> - 2024-02-16
+* <a href='http://t.csdnimg.cn/d7o4l' target='_blank'>Libcurl中SFTP和FTP删除，重命名，新建文件夹操作</a> - 2024-01-03
+<!-- END_SECTION:blog -->
+
+</td></tr>
+
+
+### 🤾‍♂️ 书单
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
 
@@ -58,19 +70,6 @@
 
 <tr><td>  
 
-### 📃 Recent Blog
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
-
-<!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/posts/kunlunchao/' target='_blank'>昆仑巢「疯狂星期六」，没有人是一座孤岛～</a> - 2024-03-18
-* <a href='https://blog.sunguoqi.com/posts/yuanze/' target='_blank'>你好，北京！你好，原则科技！一切都是最好的安排！</a> - 2024-03-10
-* <a href='https://blog.sunguoqi.com/posts/2023/' target='_blank'>行则将至，未来可期，和 2023 好好说声再见吧！</a> - 2024-02-20
-* <a href='https://blog.sunguoqi.com/posts/xizang/' target='_blank'>西藏之旅｜青春没有售价，火车直达拉萨！</a> - 2024-02-16
-* <a href='https://blog.sunguoqi.com/posts/zhuhai/' target='_blank'>珠海之旅｜去感受风，去聆听海，去触摸，去抵达</a> - 2024-01-03
-<!-- END_SECTION:blog -->
-
-</td></tr>
 
 <tr><td> 
 
@@ -86,20 +85,25 @@
 <!--  skill badge 技能徽章 -->  
 语言  
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
+![C++ Badge](https://img.shields.io/badge/C++11`17-00599C?logo=cplusplus&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Go Badge](https://img.shields.io/badge/Go-bule?style=flat&logo=go&logoColor=red&logoSize=auto)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)  
 
 基于平台  
-![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)  
+![Linux Badge](https://img.shields.io/badge/Linux系统编程-FCC624?logo=linux&logoColor=000&style=flat)
+![Linux Badge](https://img.shields.io/badge/Linux网络编程-FCC624?logo=linux&logoColor=000&style=flat)
+![Linux Badge](https://img.shields.io/badge/Linux驱动-FCC624?logo=linux&logoColor=000&style=flat)  
+![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
 ![Static Badge](https://img.shields.io/badge/OpenCV-%235C3EE8?style=flat&logo=opencv&logoColor=white&logoSize=auto)
 
-第三方库  
-  
-数据库
+
+数据库  
 ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?style=flat&logo=sqlite&logoColor=white&logoSize=auto)
+第三方库  
+MQTT
+
 
 系统  
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
