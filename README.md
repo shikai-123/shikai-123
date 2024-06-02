@@ -143,9 +143,21 @@ IDE
 ![Static Badge](https://img.shields.io/badge/pycharm-%23000000?style=flat&logo=pycharm&logoColor=white&logoSize=auto)  
 
 第三方库  
-MQTT
+BOOT
+Sqlite3,MySql  
+mosquittoMQTT,PahoMQTT  
+Logforcpp  
+Modbus  
+Culr  
+Protobuf  
+QShh  
+...
 
-
+电力系统  
+mobuds 
+RS-IEC103  NET-IEC103 IEC104  
+DL645-2007 DL6452007  
+CDT
 
 </table>
 
