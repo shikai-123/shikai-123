@@ -18,7 +18,7 @@
    <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="https://blog.csdn.net/weixin_46537765"><img src="https://img.shields.io/badge/CSDN-博客-8c36db" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://space.bilibili.com/172819580"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=shikai-123&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 
@@ -71,7 +71,7 @@
 <tr><td>
  
 ### 🤾‍♂️ 书单
- 我喜欢读书.无他,兴趣罢了.
+ 读书最大的优势是能看到前人的经验,以及成体系的理论阐述.
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
 <!-- START_SECTION:douban -->
 #### 技术书籍
@@ -124,14 +124,14 @@
 ![Linux Badge](https://img.shields.io/badge/Linux网络编程-FCC624?logo=linux&logoColor=000&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux驱动-FCC624?logo=linux&logoColor=000&style=flat)  
 ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
-![Static Badge](https://img.shields.io/badge/OpenCV-%235C3EE8?style=flat&logo=opencv&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/OpenCV-%235C3EE8?style=flat&logo=opencv&logoColor=white&logoSize=auto)  
 
 
 数据库  
 ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?style=flat&logo=sqlite&logoColor=white&logoSize=auto)
-第三方库  
-MQTT
+![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?style=flat&logo=sqlite&logoColor=white&logoSize=auto)  
+
+
 
 
 系统  
@@ -144,6 +144,19 @@ IDE
 ![Qtcreate Badge](https://img.shields.io/badge/Qtcreate-41CD52?logo=qt&logoColor=fff&style=flat)
 ![Static Badge](https://img.shields.io/badge/pycharm-%23000000?style=flat&logo=pycharm&logoColor=white&logoSize=auto)
 
+第三方库  
+mosquitto-MQTT  
+PahoMQTT  
+Libmodbus  
+TOML11  
+BOOST  
+Curl  
+Protobuf  
+log4forCpp  
+Sqlite3  
+Qssh  
+Opencv  
+MySql  
 
 
 </table>
